@@ -1,0 +1,2 @@
+# node-module
+module bot
